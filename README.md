@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @muzammilali28
 - 👀 I’m interested in -> Programming
-- 🌱 I’m currently learning -> Web Development(HTML,CSS,JavaScript,php) , Python , C#
+- 🌱 I’m currently learning -> PHP , Laravel , React JS
 - 📫 How to reach me -> Twitter
 
 <!---
