@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Muzammil Ali
 - 👀 I’m interested in --> Programming
 - :books: I’m currently learning --> PHP , Laravel , React JS
-- :pencil: The <b>Programming Languages</b> I have learned uptill now :pencil:  :pencil2: C++  :pencil2: C  :pencil2: Assembly Language
-- :pencil: The <b>Scripting Languages</b> I have learned utill now (intermediate level) :pencil: :pencil2: JavaScript :pencil2: PHP
+- :pencil: The <b>Programming Languages</b> I have learned uptill now :pencil::label: C++ , C , Assembly Language
+- :pencil: The <b>Scripting Languages</b> I have learned utill now (intermediate level) :pencil::label: JavaScript , PHP
 - :telephone_receiver: How to reach me --> Email
 - :email: My Email : muzammilali28@gmail.com
 
