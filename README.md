@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Muzammil Ali
 - 👀 I’m interested in --> Programming
-- 🌱 I’m currently learning --> PHP , Laravel , React JS
+- :books: I’m currently learning --> PHP , Laravel , React JS
 - :pencil: The <b>Programming Languages</b> I have learned uptill now are; (.cpp) --> C++ && (.c) --> C && (.asm) --> Assembly Language
 - :pencil: The <b>Scripting Languages</b> I have learned utill now (intermediate level) are; (.js) --> JavaScript && (.php) --> PHP
 - :telephone_receiver: How to reach me --> Email
