@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Muzammil Ali
 - 👀 I’m interested in --> Programming , MERN Stack
 - :books: I’m currently learning --> React JS , Node Js + Express Js , Next Js , Django , Solidity (Contract)
-- :pencil: <b>Skills</b> :label: C++ , C , MySQL (Database Managment) , HTML , CSS , JavaScript (Basic Level) , PHP
+- :pencil: <b>Skills</b> :label: C++ , C , MySQL (Database Managment) , HTML , CSS , JavaScript
 - :telephone_receiver: How to reach me --> Email
 - :email: My Email : muzammilali28@gmail.com
 
