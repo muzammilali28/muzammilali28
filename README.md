@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Muzammil Ali
-- 👀 I’m interested in --> Mobile Development (React Native),  Web Development (MERN , Next Js)
+- 👀 I’m interested in --> MERN Stack, Next Js, Blockchain, React Native
 - :books: I’m currently learning --> Prisma ORM, Sequeliz ORM, PostgreSQL, Tailwind CSS, Next.js 13, TypeScript
-- :pencil: <b>Skills</b> :label: C++ , C , MySQL (Database Managment) , HTML , CSS , JavaScript, MERN Stack, React Native.
+- :pencil: <b>Skills</b> :label: React Js, Node Js + Express Js, MongoDB, Next Js, React Native, Blockchain DApp Development, NFT Minting
 - :telephone_receiver: How to reach me --> Email
 - :email: My Email : muzammilali28@gmail.com
 
