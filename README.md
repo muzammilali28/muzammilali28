@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Muzammil Ali</h1>
 <h3 align="center">FullStack (JS) Developer from Pakistan, who loves to design and develop weird stuff.</h3>
 
-- 🔭 I’m currently working with [DuoLabz](www.duolabz.com)
+- 🔭 I’m currently working with <a href="https://www.duolabz.com" target="_blank" rel="noopener noreferrer">DuoLabz</a>
 
 - 🌱 I’m currently learning **GSAP, Framer Motion, Solana(Web3/Metaplex UMI)**
 
