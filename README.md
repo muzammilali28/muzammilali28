@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Muzammil Ali</h1>
-<h3 align="center">FullStack (JS) Developer from Pakistan, who loves to design and develop weird stuff.</h3>
+<h3 align="center">FullStack (JS) Developer from Pakistan, who loves to design and develop new stuff.</h3>
 
 - 🔭 I’m currently working with <a href="https://www.duolabz.com" target="_blank" rel="noopener noreferrer">DuoLabz</a>
 
